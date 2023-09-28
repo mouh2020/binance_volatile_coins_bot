@@ -11,7 +11,7 @@ config.py: Holds configuration parameters like the coin pair, number of coins to
 
 
 ## How to Use
-Clone the repository: git clone <[repository_url](https://github.com/mouh2020/binance_volatile_coins_bot.git)>
+Clone the repository: git clone [repository_url](https://github.com/mouh2020/binance_volatile_coins_bot.git)
 Install the required Python packages: pip install -r requirements.txt
 Ensure you have valid Binance API credentials and update them in the config.py file.
 Run the bot: python main.py
