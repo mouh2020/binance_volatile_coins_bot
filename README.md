@@ -10,7 +10,7 @@ main.py: Contains the main script for the bot, including the WebSocket connectio
 
 utils.py: Contains utility functions to fetch coin pairs and construct the WebSocket stream link.
 
-config.py: Holds configuration parameters like the coin pair, number of coins to track, and candlestick interval.
+config.py: Holds configuration parameters like the coin pair, number of coins to track, candlestick interval, and Telegram BOT and ChatID.
 
 
 ## How to Use
